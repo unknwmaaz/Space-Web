@@ -1,0 +1,112 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    font-family: 'Ranade', sans-serif;
+}
+.space {
+    width: 100%;
+    height: 20%;
+    background-color: rgba(66, 66, 66, 0);
+    display: flex;
+    align-items: center;
+    transform: translate(
+    )
+
+} 
+
+.logo{
+    width: 20%;
+    text-align: center;
+    margin: 25px;
+    text-decoration: dashed;
+    color: #fff;
+    margin-right: 100px;
+    
+    
+}
+
+.logo img {
+  width: 40%;
+}
+
+
+#nav {
+    width: 40%;
+    text-align: center;
+    gap: 12Px;
+ 
+}
+
+a{
+    all: unset;
+    color: rgb(207, 183, 74);
+    margin-right: 100px;
+    text-transform: capitalize;
+
+
+}
+
+
+div a:hover{
+    color: white;
+    transition: 0.5s;
+ font-size: 1.5rem;
+    
+    border-bottom: 1px solid white;
+
+}
+
+.spacex{
+font-size: 2.0rem;
+}
+
+body{
+    background: url(https://images5.alphacoders.com/523/523521.jpg);
+    background-repeat: no-repeat;
+ background-size: cover;
+ color: none;
+}
+
+
+
+.center{
+    text-align: center;
+    top: 52%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    position: absolute;
+    width: 200%;
+    padding: 0 20px;
+    text-transform: capitalize;
+   
+  }
+
+
+  .center .title{
+    color: #ffffff;
+    font-size: 55px;
+    font-weight: 500;
+    text-align: center;
+    text-transform: capitalize;
+  }
+  
+  
+  .center .button{
+    margin-top: 20px;
+    
+  }
+
+  
+
+
+
+  
+
+
+
+
+
+
+
+
